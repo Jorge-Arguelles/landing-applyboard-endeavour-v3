@@ -105,6 +105,13 @@
     margin-top: 1rem;
 }
 
+.btn-applyborad-blue {
+    border: 2px solid #00368A;
+    color: #00368A;
+    padding: 0.375rem 3rem;
+    margin-top: 1rem;
+}
+
 @media only screen and (max-width: 1440px) {
 	#header {
 		background: url(../images/header-applyboard-1440.jpg) no-repeat;
@@ -290,14 +297,6 @@
 /* ============================================================== */
 #sobre-applyboard {
 	padding: 4rem 0;
-}
-
-
-/* ==============================================================
-/*	CONTACTANOS
-/* ============================================================== */
-#contactanos {
-	background-color: #f8f9fe;
 }
 
 
