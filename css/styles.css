@@ -93,7 +93,7 @@
 /* ============================================================== */
 	#header {
 		height: 487px;
-		background: url(../images/header-applyboard.jpg) no-repeat;
+		background: url(../images/fondo-header.jpg) no-repeat;
 		background-size: cover;
 		background-position: top right;
 		color: #fff;
@@ -132,27 +132,6 @@
 		color: #00368A;
 		padding: 0.375rem 3rem;
 		margin-top: 1rem;
-	}
-
-	@media only screen and (max-width: 1440px) {
-		#header {
-			background: url(../images/header-applyboard-1440.jpg) no-repeat;
-			background-position: top right;
-		}
-	}
-
-	@media only screen and (max-width: 992px) {
-		#header {
-			background: url(../images/header-applyboard-992.jpg) no-repeat;
-			background-position: top right;
-		}
-	}
-
-	@media only screen and (max-width: 768px) {
-		#header {
-			background: url(../images/header-applyboard-768.jpg) no-repeat;
-			background-position: top right;
-		}
 	}
 /**/
 
